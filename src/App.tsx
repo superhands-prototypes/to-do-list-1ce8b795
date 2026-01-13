@@ -60,7 +60,7 @@ export default function App() {
     <div className="app">
       <div className="container">
         <header className="header">
-          <h1>Tasks</h1>
+          <h1>My Tasks</h1>
           <p className="subtitle">What needs to be done?</p>
         </header>
 
